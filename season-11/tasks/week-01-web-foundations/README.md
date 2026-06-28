@@ -249,7 +249,7 @@ Turn your accessibility audit (Task 2.3) into a short public post on **Dev.to**,
 
 ---
 
-## Daily Challenges
+## Daily Challengesh
 
 ### Day 1: Five Tags Challenge 🟢
 Create a webpage using at least 5 different HTML tags you haven't used before.
